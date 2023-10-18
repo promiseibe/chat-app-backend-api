@@ -17,7 +17,7 @@ RESTful API: The backend provides RESTful APIs for user authentication and chat 
 
 Getting Started
 Clone the Repository:
-git clone https://github.com/your-username/chat-app-backend.git
+git clone https://github.com/promiseibe/chat-app-backend.git
 cd chat-app-backend
 Install Dependencies:
 npm install
